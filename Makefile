@@ -1,3 +1,5 @@
+all: deps
+
 gx:
 	go get github.com/whyrusleeping/gx
 	go get github.com/whyrusleeping/gx-go
